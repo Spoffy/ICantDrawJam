@@ -1,0 +1,14 @@
+{
+  "name": "icantdrawjam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildAndRunBattleTest": "tsc && node ./dist/BattleTest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.13.4"
+  }
+}
